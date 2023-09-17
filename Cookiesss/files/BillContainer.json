@@ -1,0 +1,1 @@
+{"ListBillContainer":[{"ListBill":[{"Items":[{"Id":"1","Definition":"Wheat","Price":10,"Quantity":2},{"Id":"3","Definition":"Flour","Price":25,"Quantity":4}],"Id":"2d969e9e3c8445a0a0d1e61952ece672","Total":120,"Tax":30}],"BillContainerId":"1111adasdadasdasaadas","TotalRevenue":120,"TaxRevenue":30,"NetIncome":90,"Id":null}]}
